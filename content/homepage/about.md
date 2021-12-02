@@ -2,7 +2,7 @@
 title: Netbound
 draft: false
 role: Jonas Bostoen
-avatar: images/eth-tools-profile.jpg
+avatar: images/netbound.jpg
 # bio: 
 social:
   - icon: envelope
