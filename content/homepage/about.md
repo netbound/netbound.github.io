@@ -40,9 +40,9 @@ widget:
     attachment: 
 ---
 
-## About
+# About
 Nothing to see here yet.
-## Projects
+# Projects
 * [e7mon - Ethereum clients monitor](https://github.com/netbound/e7mon)
 * [p2pflow - Ethereum p2p traffic flow](https://github.com/netbound/p2pflow)
 <!-- ## Self Introduction
