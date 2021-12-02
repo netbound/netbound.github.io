@@ -12,9 +12,9 @@ titleSeparator:
 colorScheme:
 
 # E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
-siteType: Person
-icon: images/eth-tools-profile.jpg
-publisherName: C. Wang
+siteType: Organization
+icon: images/icon.png
+publisherName: Jonas Bostoen
 publisherLogo:
 
 highlight:
